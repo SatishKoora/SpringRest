@@ -8,6 +8,6 @@ public class BlogController {
 
     @RequestMapping("/user")
     public String index(){
-        return "Congratulations.... You're First Spring Boot Application is Ready to Use...!";
+        return "Congratulations.... You're first spring Boot application is running successfully...!";
     }
 }
